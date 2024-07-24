@@ -15,8 +15,8 @@ This repository contains a simple Ethereum smart contract and a React frontend a
 
 ### Prerequisites
 
-- Node.js (>=14.x.x)
-- npm or yarn
+- Node.js 
+- npm 
 - MetaMask browser extension
 - Hardhat
 
